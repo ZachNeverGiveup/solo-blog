@@ -10,7 +10,8 @@ ZachNeverGiveup 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://chinazach.com:1234/hello-solo)
+* [我在 GitHub 上的开源项目](https://solo.chinazach.com/my-github-repos)
+* [世界，你好！](https://solo.chinazach.com/hello-solo)
 
 
 
