@@ -10,6 +10,7 @@ Zach 的个人博客
 
 ### 最新
 
+* [持续学习记录](https://solo.chinazach.com/articles/2019/09/02/1567396065329.html)
 * [建立此站点踩的坑记录](https://solo.chinazach.com/articles/2019/08/30/1567156731869.html)
 * [hello zach](https://solo.chinazach.com/articles/2019/08/30/1567155661571.html)
 * [我在 GitHub 上的开源项目](https://solo.chinazach.com/my-github-repos)
