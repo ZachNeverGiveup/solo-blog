@@ -10,6 +10,7 @@ Zach 的个人博客
 
 ### 最新
 
+* [通过git bash scp命令向linux服务器上传文件](https://solo.chinazach.com/articles/2019/09/11/1568182658711.html)
 * [Docker MySql报2059错误: Authentication plugin 'caching_sha2_password' cannot be loaded](https://solo.chinazach.com/articles/2019/09/02/1567417464250.html)
 * [简单的frp实现 记录](https://solo.chinazach.com/articles/2019/09/02/1567413241983.html)
 * [常用命令记录](https://solo.chinazach.com/articles/2019/09/02/1567407279905.html)
