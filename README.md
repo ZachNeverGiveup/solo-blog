@@ -13,6 +13,13 @@ ZachNeverGiveup 的个人博客
 * [我在 GitHub 上的开源项目](https://www.chinazach.com/my-github-repos)
 * [hello zach](https://www.chinazach.com/articles/2019/09/16/1568606772425.html)
 * [世界，你好！](https://www.chinazach.com/hello-solo)
+* [通过git bash scp命令向linux服务器上传文件](https://www.chinazach.com/articles/2019/09/11/1568182658711.html)
+* [Docker MySql报2059错误: Authentication plugin 'caching_sha2_password' cannot be loaded](https://www.chinazach.com/articles/2019/09/02/1567417464250.html)
+* [简单的frp实现 记录](https://www.chinazach.com/articles/2019/09/02/1567413241983.html)
+* [常用命令记录](https://www.chinazach.com/articles/2019/09/02/1567407279905.html)
+* [持续学习记录](https://www.chinazach.com/articles/2019/09/02/1567396065329.html)
+* [建立此站点踩的坑记录](https://www.chinazach.com/articles/2019/08/30/1567156731869.html)
+* [hello zach](https://www.chinazach.com/articles/2019/08/30/1567155661571.html)
 
 
 
