@@ -10,6 +10,7 @@ Zach Web
 
 ### 最新
 
+* [Fastjson转换json，带泛型的对象，如CommonResponse<T>,报错解决](https://www.chinazach.com/articles/2019/10/11/1570784962461.html)
 * [Docker的相关命令记录总结](https://www.chinazach.com/articles/2019/09/25/1569395219370.html)
 * [Docker学习](https://www.chinazach.com/articles/2019/09/23/1569209369592.html)
 * [大碗宽面](https://www.chinazach.com/articles/2019/09/21/1569067634363.html)
